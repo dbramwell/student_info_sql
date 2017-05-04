@@ -1,0 +1,1 @@
+CREATE TABLE student_info(id int NOT NULL AUTO_INCREMENT, name varchar(255), PRIMARY KEY (ID));
